@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Sen:wght@400;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <title>Movie Design</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-container">
+            <div class="logo-container">
+                <h1 class="logo">Darkware</h1>
+            </div>
+
+            <!-- Mobile Menu Icons -->
+            <div class="mobile-menu-icons">
+                <i class="mobile-menu-icon fa-regular fa-house"></i>
+                <i class="mobile-menu-icon fa-solid fa-magnifying-glass" ></i>
+                <i class="mobile-menu-icon fa-solid fa-film" onclick="location.href='movies-dynamic.html'"></i>
+                <i class="mobile-menu-icon fa-solid fa-list" onclick="location.href='series-dynamic.html'"></i>
+            </div>
+
+            <div class="menu-container">
+                <ul class="menu-list">
+                    <li class="menu-list-item active">Home</li>
+                    <li class="menu-list-item" onclick="location.href='movies-dynamic.html'">Movies</li>
+                    <li class="menu-list-item" onclick="location.href='series-dynamic.html'">Series</li>
+                    <li class="menu-list-item">Popular</li>
+                    <li class="menu-list-item">Trends</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="sidebar">
+        <i class="left-menu-icon fa-regular fa-house" onclick="location.href='index.html'"></i>
+        <i class="left-menu-icon fa-solid fa-magnifying-glass"></i>
+        <i class="left-menu-icon fa-solid fa-film" onclick="location.href='movies-dynamic.html'"></i>
+        <i class="left-menu-icon fa-solid fa-list" onclick="location.href='series-dynamic.html'"></i>
+        <i class="left-menu-icon fa-solid fa-tv"></i>
+        <i class="left-menu-icon fa-solid fa-hourglass-start"></i>
+
+
+    </div>
+    <div class="container">
+        <div class="content-container">
+            <div class="featured-content"
+                style="background: linear-gradient(to bottom, rgba(0,0,0,0), #151515), url('images/It-featured.jpg');">
+                <img class="featured-title" src="images/featured title.png" alt="">
+                <p class="featured-desc">A chilling prequel exploring Derry's cursed origins, revealing Pennywise's dark
+                    rise and the town's haunting secrets.</p>
+                <button class="featured-button"
+                    onclick="location.href='https://file-to-link--2bot-97022484a540.herokuapp.com/dl/690316ed88f956ccb457b380'">Download</button>
+
+            </div>
+            <div class="movie-list-container">
+                <h1 class="movie-list-title">NEW RELEASES</h1>
+                <div class="movie-list-wrapper">
+                    <div class="movie-list">
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/1.jpg" alt="">
+                            <span class="movie-list-item-title">Mahavatar Narsimha</span>
+                            <p class="movie-list-item-desc">The film chronicles two incarnations of Vishnu, Varaha and
+                                Narasimha</p>
+                            <button class="movie-list-item-button"
+                                onclick="location.href='detail.html?id=1&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/2.jpg" alt="">
+                            <span class="movie-list-item-title">Kantara: A Legend</span>
+                            <p class="movie-list-item-desc">The film takes you back to the Kantara land.</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=2&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/3.jpg" alt="">
+                            <span class="movie-list-item-title">Baaghi 4</span>
+                            <p class="movie-list-item-desc">After surviving an attempted suicide by train, a
+                                grief-stricken man descends into chaos as reality blurs</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=3&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/4.jpg" alt="">
+                            <span class="movie-list-item-title">F1: The Movie</span>
+                            <p class="movie-list-item-desc">A Formula One driver comes out of retirement to mentor and
+                                team up with a younger driver.</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=4&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/5.jpg" alt="">
+                            <span class="movie-list-item-title">A Minecraft Movie</span>
+                            <p class="movie-list-item-desc">Four misfits are suddenly pulled through a mysterious portal
+                                into a bizarre, cubic wonderland that thrives on imagination.</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=5&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/6.jpg" alt="">
+                            <span class="movie-list-item-title">Vash Level 2</span>
+                            <p class="movie-list-item-desc">The narrative quickly plunges into darkness when a group of
+                                schoolgirls fall prey to a mysterious hypnotic spell.</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=6&type=movie'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/7.jpg" alt="">
+                            <span class="movie-list-item-title">Weapons</span>
+                            <p class="movie-list-item-desc">An unexpected thrill ride. A Pennsylvania teacher's
+                                nightmares begin when her entire classroom vanishes</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=7&type=movie'">Watch</button>
+                        </div>
+
+                    </div>
+
+                </div>
+                <h1 class="movie-list-title">SERIES</h1>
+                <div class="movie-list-wrapper">
+                    <div class="movie-list">
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series1kurukshetra.jpg" alt="">
+                            <span class="movie-list-item-title">Kurukshetra</span>
+                            <p class="movie-list-item-desc">Epic mythological saga of the Mahabharata's brutal
+                                Kurukshetra war.</p>
+                            <button class="movie-list-item-button"
+                                onclick="location.href='https://file-to-link--2bot-97022484a540.herokuapp.com/dl/6903341f88f956ccb457ba81'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series2strangerthings.jpg" alt="">
+                            <span class="movie-list-item-title">Stranger Things</span>
+                            <p class="movie-list-item-desc">Kids face supernatural horrors in a small 1980s Indiana
+                                town.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series3thewitcher.jpg" alt="">
+                            <span class="movie-list-item-title">The Witcher</span>
+                            <p class="movie-list-item-desc">In a world of magic and monsters, Geralt of Rivia battles to
+                                find his place.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series4squidegame.jpg" alt="">
+                            <span class="movie-list-item-title">Squid Game</span>
+                            <p class="movie-list-item-desc">In a deadly competition, players risk their lives..</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series5aliceinborderland.jpg" alt="">
+                            <span class="movie-list-item-title">Alice in Borderland</span>
+                            <p class="movie-list-item-desc">Deadly games test survivors in a mysteriously abandoned
+                                Tokyo.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series6mandalamurders.jpg" alt="">
+                            <span class="movie-list-item-title">Mandala Murders</span>
+                            <p class="movie-list-item-desc">A detective hunts a ritualistic killer targeting corrupt
+                                public figures.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series7allofusaredead.jpg" alt="">
+                            <span class="movie-list-item-title">All of Us Are Dead</span>
+                            <p class="movie-list-item-desc">A high school becomes ground zero for a zombie apocalypse.
+                            </p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+
+                    </div>
+                </div>
+                <h1 class="movie-list-title">POPULAR</h1>
+                <div class="movie-list-wrapper">
+                    <div class="movie-list">
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series1kurukshetra.jpg" alt="">
+                            <span class="movie-list-item-title">Kurukshetra</span>
+                            <p class="movie-list-item-desc">Epic mythological saga of the Mahabharata's brutal
+                                Kurukshetra war.</p>
+                            <button class="movie-list-item-button"
+                                onclick="location.href='https://file-to-link--2bot-97022484a540.herokuapp.com/dl/6903341f88f956ccb457ba81'">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series2strangerthings.jpg" alt="">
+                            <span class="movie-list-item-title">Stranger Things</span>
+                            <p class="movie-list-item-desc">Kids face supernatural horrors in a small 1980s Indiana
+                                town.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series3thewitcher.jpg" alt="">
+                            <span class="movie-list-item-title">The Witcher</span>
+                            <p class="movie-list-item-desc">In a world of magic and monsters, Geralt of Rivia battles to
+                                find his place.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series4squidegame.jpg" alt="">
+                            <span class="movie-list-item-title">Squid Game</span>
+                            <p class="movie-list-item-desc">In a deadly competition, players risk their lives..</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series5aliceinborderland.jpg" alt="">
+                            <span class="movie-list-item-title">Alice in Borderland</span>
+                            <p class="movie-list-item-desc">Deadly games test survivors in a mysteriously abandoned
+                                Tokyo.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series6mandalamurders.jpg" alt="">
+                            <span class="movie-list-item-title">Mandala Murders</span>
+                            <p class="movie-list-item-desc">A detective hunts a ritualistic killer targeting corrupt
+                                public figures.</p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+                        <div class="movie-list-item">
+                            <img class="movie-list-item-img" src="images/series/series7allofusaredead.jpg" alt="">
+                            <span class="movie-list-item-title">All of Us Are Dead</span>
+                            <p class="movie-list-item-desc">A high school becomes ground zero for a zombie apocalypse.
+                            </p>
+                            <button class="movie-list-item-button">Watch</button>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <script src="index.js"></script>
+</body>
+    <script>
+        // Load admin content for homepage
+        async function loadAdminContent() {
+            try {
+                const adminContent = JSON.parse(localStorage.getItem('darkwareAdminContent') || '{"movies":[],"series":[]}');
+                
+                // Add admin movies to "NEW RELEASES" section
+                if (adminContent.movies.length > 0) {
+                    const movieList = document.querySelector('.movie-list');
+                    adminContent.movies.forEach(movie => {
+                        const movieItem = document.createElement('div');
+                        movieItem.className = 'movie-list-item';
+                        movieItem.innerHTML = `
+                            <img class="movie-list-item-img" src="${movie.image}" alt="${movie.title}" onerror="this.src='https://via.placeholder.com/270x200/333333/FFFFFF?text=No+Image'">
+                            <span class="movie-list-item-title">${movie.title}</span>
+                            <p class="movie-list-item-desc">${movie.description}</p>
+                            <button class="movie-list-item-button" onclick="location.href='detail.html?id=${movie.id}&type=movie'">Watch</button>
+                        `;
+                        movieList.appendChild(movieItem);
+                    });
+                }
+            } catch (error) {
+                console.error('Error loading admin content:', error);
+            }
+        }
+
+        // Load admin content when page loads
+        document.addEventListener('DOMContentLoaded', loadAdminContent);
+    </script>
+
+</html>

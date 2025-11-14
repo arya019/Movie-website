@@ -1,0 +1,810 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Mahavatar Narsimha",
+      "image": "images/1.jpg",
+      "description": "The film chronicles two incarnations of Vishnu, Varaha and Narasimha",
+      "category": "action",
+      "downloadLink": "https://eonmovies.fun/dl/11411",
+      "rating": 8.2,
+      "year": 2023,
+      "duration": "2h 28m",
+      "quality": "HD"
+    },
+    {
+      "id": 2,
+      "title": "Kantara: A Legend",
+      "image": "images/2.jpg",
+      "description": "The film takes you back to the Kantara land with epic mythology and action.",
+      "category": "action",
+      "downloadLink": "https://hubcloud.fyi/drive/dj2wt1nf8r17ue2",
+      "rating": 8.7,
+      "year": 2022,
+      "duration": "2h 32m",
+      "quality": "4K"
+    },
+    {
+      "id": 3,
+      "title": "Baaghi 4",
+      "image": "images/3.jpg",
+      "description": "After surviving an attempted suicide by train, a grief-stricken man descends into chaos as reality blurs",
+      "category": "action",
+      "downloadLink": "https://eonmovies.fun/dl/14841",
+      "rating": 7.5,
+      "year": 2024,
+      "duration": "2h 15m",
+      "quality": "HD"
+    },
+    {
+      "id": 4,
+      "title": "F1: The Movie",
+      "image": "images/4.jpg",
+      "description": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
+      "category": "sports",
+      "downloadLink": "https://new2.extralink.ink/s/ed1bb8b0/",
+      "rating": 8.1,
+      "year": 2024,
+      "duration": "2h 08m",
+      "quality": "HD"
+    },
+    {
+      "id": 5,
+      "title": "A Minecraft Movie",
+      "image": "images/5.jpg",
+      "description": "Four misfits are suddenly pulled through a mysterious portal into a bizarre, cubic wonderland that thrives on imagination.",
+      "category": "adventure",
+      "downloadLink": "https://eonmovies.fun/dl/1975",
+      "rating": 7.8,
+      "year": 2024,
+      "duration": "1h 56m",
+      "quality": "HD"
+    },
+    {
+      "id": 6,
+      "title": "Vash Level 2",
+      "image": "images/6.jpg",
+      "description": "The narrative quickly plunges into darkness when a group of schoolgirls fall prey to a mysterious hypnotic spell.",
+      "category": "thriller",
+      "downloadLink": "https://hubcloud.fyi/drive/3ckwz881y33zb8s",
+      "rating": 7.3,
+      "year": 2024,
+      "duration": "2h 12m",
+      "quality": "HD"
+    },
+    {
+      "id": 7,
+      "title": "Weapons",
+      "image": "images/7.jpg",
+      "description": "An unexpected thrill ride. A Pennsylvania teacher's nightmares begin when her entire classroom vanishes",
+      "category": "horror",
+      "downloadLink": "https://eonmovies.fun/dl/9535",
+      "rating": 6.9,
+      "year": 2024,
+      "duration": "1h 48m",
+      "quality": "HD"
+    },
+    {
+      "id": 8,
+      "title": "John Wick 4",
+      "image": "images/8.jpg",
+      "description": "John Wick uncovers a path to defeating The High Table in this epic action conclusion.",
+      "category": "action",
+      "downloadLink": "https://eonmovies.fun/dl/8357",
+      "rating": 8.9,
+      "year": 2023,
+      "duration": "2h 49m",
+      "quality": "4K"
+    },
+    {
+      "id": 9,
+      "title": "Mission Impossible",
+      "image": "images/9.jpg",
+      "description": "Ethan Hunt and his IMF team must track down a terrifying new weapon that threatens humanity.",
+      "category": "action",
+      "downloadLink": "https://new2.extralink.ink/s/8eb9007b/",
+      "rating": 8.4,
+      "year": 2023,
+      "duration": "2h 43m",
+      "quality": "4K"
+    },
+    {
+      "id": 10,
+      "title": "The Batman",
+      "image": "images/10.jpg",
+      "description": "Batman ventures into Gotham City's underworld to uncover corruption and face the Riddler.",
+      "category": "action",
+      "downloadLink": "https://hubdrive.space/file/2478916796",
+      "rating": 8.1,
+      "year": 2022,
+      "duration": "2h 56m",
+      "quality": "4K"
+    }
+  ],
+  "series": [
+    {
+      "id": 101,
+      "title": "Stranger Things",
+      "image": "images/series/series2strangerthings.jpg",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "category": "sci-fi",
+      "rating": 8.7,
+      "year": 2016,
+      "seasons": 4,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "description": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "description": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unusual phone call.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Chapter Three: Holly, Jolly",
+              "description": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Chapter Four: The Body",
+              "description": "A discovery forces the boys to confront a grim reality.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Chapter Five: The Flea and the Acrobat",
+              "description": "The group searches for a gateway to a hidden world.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Chapter Six: The Monster",
+              "description": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Chapter Seven: The Bathtub",
+              "description": "The group devises a plan to rescue Will from the Upside Down.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Chapter Eight: The Upside Down",
+              "description": "The group uncovers the truth about the Upside Down and must confront their fears.",
+              "downloadLink": "https://example.com/download/strangerthings/s1e3"
+            }
+            
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Chapter One: MADMAX",
+              "description": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Chapter Two: Trick or Treat, Freak",
+              "description": "After Will sees something terrible on trick-or-treat night, Mike wonders if Eleven's still out there.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Chapter Three: The Pollywog",
+              "description": "As the investigation into Barb's disappearance intensifies, the group faces new challenges and discovers hidden truths.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Chapter Four: Will the Wise",
+              "description": "As the group searches for Will, they uncover more about the Upside Down.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Chapter Five: Dig Dug",
+              "description": "As the group continues to search for Will, they must confront their own fears and insecurities.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Chapter Six: The Spy",
+              "description": "As the group investigates the Upside Down, they uncover a spy in their midst.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Chapter Seven: The Lost Sister",
+              "description": "Eleven uncovers the truth about her past and the existence of other children like her.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Chapter Eight: The Mind Flayer",
+              "description": "The group uncovers the truth about the Mind Flayer and must confront their fears.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e8"
+            },
+            {
+              "episodeNumber": 9,
+              "title": "Chapter Nine: The Gate",
+              "description": "The group must close the gate to the Upside Down and confront the Mind Flayer.",
+              "downloadLink": "https://example.com/download/strangerthings/s2e9"
+            }
+
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Chapter One: Suzie, Do You Copy?",
+              "description": "New summer romances bloom as a dark secret awakens.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Chapter Two: The Mall Rats",
+              "description": "The group investigates a sinister threat beneath the new mall.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Chapter Three: The Case of the Missing Lifeguard",
+              "description": "A gruesome discovery reveals the monster's terrifying new nature.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Chapter Four: The Sauna Test",
+              "description": "The kids enact a dangerous plan to expose the enemy.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Chapter Five: The Flayed",
+              "description": "The terrifying truth about Billy and Mrs. Driscoll emerges.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Chapter Six: E Pluribus Unum",
+              "description": "The Flayed begin their final, horrifying transformation into one.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Chapter Seven: The Bite",
+              "description": "A brutal injury puts one hero's life in grave danger.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Chapter Eight: The Battle of Starcourt",
+              "description": "The fight for Hawkins' future reaches its explosive climax.",
+              "downloadLink": "https://example.com/download/strangerthings/s3e8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "The Witcher",
+      "image": "images/series/series3thewitcher.jpg",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+      "category": "fantasy",
+      "rating": 8.2,
+      "year": 2019,
+      "seasons": 3,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "The End's Beginning",
+              "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny.",
+              "downloadLink": "https://example.com/download/witcher/s1e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Four Marks",
+              "description": "Geralt takes on another deadly contract while Yennefer and her fellow mages are initiated.",
+              "downloadLink": "https://example.com/download/witcher/s1e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: Betrayer Moon",
+              "description": "Geralt faces a deadly curse in a war-torn kingdom.",
+              "downloadLink": "https://example.com/download/witcher/s1e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: Of Banquets, Bastards and Burials",
+              "description": "Geralt's Law of Surprise pledge complicates Ciri's royal destiny.",
+              "downloadLink": "https://example.com/download/witcher/s1e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: Bottled Appetites",
+              "description": "Geralt, Jaskier, and Yennefer seek a djinn's dangerous power.",
+              "downloadLink": "https://example.com/download/witcher/s1e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Rare Species",
+              "description": "A dragon hunt forces Geralt to choose between conflicting desires.",
+              "downloadLink": "https://example.com/download/witcher/s1e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: Before a Fall",
+              "description": "The destinies of Geralt, Yennefer, and Ciri violently converge.",
+              "downloadLink": "https://example.com/download/witcher/s1e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Episode 8: Much More",
+              "description": "Cintra falls as Geralt and Ciri finally find each other.",
+              "downloadLink": "https://example.com/download/witcher/s1e8"
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode 1: A Grain of Truth",
+              "description": "Geralt visits an old friend.",
+              "downloadLink": "https://example.com/download/witcher/s2e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode 2: Kaer Morhen",
+              "description": "Ciri begins her Witcher training.",
+              "downloadLink": "https://example.com/download/witcher/s2e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: What Is Lost",
+              "description": "Ciri's powers dangerously manifest.",
+              "downloadLink": "https://example.com/download/witcher/s2e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: Redanian Intelligence",
+              "description": "Geralt hunts a mysterious killer.",
+              "downloadLink": "https://example.com/download/witcher/s2e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: Turn Your Back",
+              "description": "Yennefer makes a desperate bargain.",
+              "downloadLink": "https://example.com/download/witcher/s2e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Dear Friend",
+              "description": "Geralt and Yennefer argue.",
+              "downloadLink": "https://example.com/download/witcher/s2e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: Voleth Meir",
+              "description": "A demonic entity is unleashed.",
+              "downloadLink": "https://example.com/download/witcher/s2e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Episode 8: Family",
+              "description": "They confront their monster.",
+              "downloadLink": "https://example.com/download/witcher/s2e8"
+            }
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode 1: Shaerrawedd",
+              "description": "Geralt protects Ciri from new threats.",
+              "downloadLink": "https://example.com/download/witcher/s3e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode 2: Unbound",
+              "description": "Yennefer forms a new plan.",
+              "downloadLink": "https://example.com/download/witcher/s3e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: Reunion",
+              "description": "The group regathers at Aretuza.",
+              "downloadLink": "https://example.com/download/witcher/s3e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: The Invitation",
+              "description": "They attend a magical ball.",
+              "downloadLink": "https://example.com/download/witcher/s3e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: The Art of Illusion",
+              "description": "A heist at the ball.",
+              "downloadLink": "https://example.com/download/witcher/s3e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Everybody Has a Plan 'Til They Get Punched in the Face",
+              "description": "Plans fall apart, betrayals revealed.",
+              "downloadLink": "https://example.com/download/witcher/s3e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: Out of the Fire, Into the Frying Pan",
+              "description": "Ciri flees to the desert.",
+              "downloadLink": "https://example.com/download/witcher/s3e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Episode 8: The Cost of Chaos",
+              "description": "The battle for Aretuza concludes.",
+              "downloadLink": "https://example.com/download/witcher/s3e8"
+            }
+          ]
+        },
+        {
+          "seasonNumber": 4,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode 1: What Doesn't Kill You Makes You Stronger",
+              "description": "Geralt begins his new path.",
+              "downloadLink": "https://example.com/download/witcher/s4e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode 2: Dream of a Wish Fulfilled",
+              "description": "The Rats find a new member.",
+              "downloadLink": "https://example.com/download/witcher/s4e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: Trial by Ordeal",
+              "description": "Ciri adapts to a harsh life.",
+              "downloadLink": "https://example.com/download/witcher/s4e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: A Sermon of Survival",
+              "description": "Geralt's new company hunts their prey.",
+              "downloadLink": "https://example.com/download/witcher/s4e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: The Joy of Cooking",
+              "description": "A dangerous bounty is placed.",
+              "downloadLink": "https://example.com/download/witcher/s4e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Twilight of the Wolf",
+              "description": "Journey to the mysterious Korath desert.",
+              "downloadLink": "https://example.com/download/witcher/s4e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: What I love I do not carry",
+              "description": "Ciri faces a terrible trial.",
+              "downloadLink": "https://example.com/download/witcher/s4e7"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Episode 8: Baaptism of Fire",
+              "description": "Fates converge on the Hanse.",
+              "downloadLink": "https://example.com/download/witcher/s4e8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Breaking Bad",
+      "image": "images/series/series8breakingbad.jpg",
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to a life of crime, producing and selling methamphetamine.",
+      "category": "drama",
+      "rating": 9.5,
+      "year": 2008,
+      "seasons": 5,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Pilot",
+              "description": "Diagnosed with terminal lung cancer, a high school chemistry teacher resorts to cooking and selling methamphetamine to provide for his family.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode 2: Cat's in the Bag.",
+              "description": "They must dispose of two bodies.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: And the Bag's in the River",
+              "description": "They must deal with the consequences of their actions.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: Cancer Man",
+              "description": "Walt's family throws a fundraiser.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: Gray Matter",
+              "description": "Walt refuses help from old partners.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Crazy Handful of Nothin'",
+              "description": "Walt adopts a new persona.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: A No-Rough-Stuff-Type Deal",
+              "description": "Walt and Jesse try to secure their business.",
+              "downloadLink": "https://example.com/download/breakingbad/s1e7"
+            }
+            
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Episode 1: Seven Thirty-Seven",
+              "description": "Walt and Jesse plan their next move.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Episode 2: Grilled",
+              "description": "A tense standoff with Tuco.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e2"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Episode 3: Bit by a Dead Bee",
+              "description": "Walt and Jesse create their alibis.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e3"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Episode 4: Down",
+              "description": "Jesse loses everything and moves in.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e4"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Episode 5: Breakage",
+              "description": "The crew expands its distribution network.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e5"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Episode 6: Peekaboo",
+              "description": "Jesse tries to collect a debt.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e6"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Episode 7: Negro y Azul",
+              "description": "Walt and Jesse try to secure their business.",
+              "downloadLink": "https://example.com/download/breakingbad/s2e7"
+            }
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Game of Thrones",
+      "image": "images/series/series9got.jpg",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "category": "fantasy",
+      "rating": 9.3,
+      "year": 2011,
+      "seasons": 8,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Winter Is Coming",
+              "description": "Eddard Stark is torn between his family and an old friend when asked to serve at the side of King Robert Baratheon.",
+              "downloadLink": "https://example.com/download/got/s1e1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "The Mandalorian",
+      "image": "images/series/series10themandalorian.jpg",
+      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "category": "sci-fi",
+      "rating": 8.8,
+      "year": 2019,
+      "seasons": 3,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Chapter 1: The Mandalorian",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Kurukshetra",
+      "image": "images/series/series1kurukshetra.jpg",
+      "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "category": "sci-fi",
+      "rating": 8.8,
+      "year": 2025,
+      "seasons": 3,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Chapter 1: Sanjay",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Chapter 2: Vishwaroop",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 3,
+              "title": "Chapter 3: Bhishm",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 4,
+              "title": "Chapter 4: Dronacharya",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 5,
+              "title": "Chapter 5: Abhimanyu",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 6,
+              "title": "Chapter 6: Jayadrath",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 7,
+              "title": "Chapter 7: Arjun",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 8,
+              "title": "Chapter 8: Ghatotkach",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 9,
+              "title": "Chapter 9: Yudhishthir",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 10,
+              "title": "Chapter 10: Kripacharya",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 11,
+              "title": "Chapter 11: Kunti",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 12,
+              "title": "Chapter 12: Dushasan",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 13,
+              "title": "Chapter 13: Karn",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 14,
+              "title": "Chapter 14: Duryodhan",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 15,
+              "title": "Chapter 15: Bheem",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 16,
+              "title": "Chapter 16: Ashwatthama",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 17,
+              "title": "Chapter 17: Stree Parv",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            },
+            {
+              "episodeNumber": 18,
+              "title": "Chapter 18: Krishn",
+              "description": "A lone Mandalorian bounty hunter tracks a target for a well-paying client.",
+              "downloadLink": "https://example.com/download/mandalorian/s1e1"
+            }
+          
+
+          ]
+        }
+      ]
+    }
+  ]
+}
